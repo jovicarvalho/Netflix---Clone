@@ -1,4 +1,4 @@
-# Netflox-Clone: RAEFLIX :girl:
+# Netflix-Clone: RAEFLIX :girl: (homenagem a minha namorada)
 - Aplicando minhas habilidades de HTML - CSS e JS
 Conteúdo: 
   ->Logo;
