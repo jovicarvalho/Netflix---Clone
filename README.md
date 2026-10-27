@@ -1,4 +1,4 @@
-# Netflix-Clone: RAEFLIX :girl: (homenagem a minha ex-namorada)
+# Netflix-Clone: Joelmaflix
 - Aplicando minhas habilidades de HTML - CSS e JS;
 
 Conteúdo: 
